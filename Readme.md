@@ -1,5 +1,4 @@
-link: [portfolio](https://laptop-portfolio-phi.vercel.app/)
+link: [portfolio](https://cv-macbook-laptop-portfolio.vercel.app/)
 
-- macbook model is from [pmnd market](https://market.pmnd.rs/)
+- macbook model is taken from [pmnd market](https://market.pmnd.rs/)
 
-- learned from [three js journey by bruno simon](https://threejs-journey.com/)
